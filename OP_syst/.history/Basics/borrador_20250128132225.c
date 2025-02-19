@@ -1,0 +1,37 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+    int Number1, Number2;
+    char oper[2];
+
+    printf("Enter the first number: ");
+    scanf("%f", Number1);
+    printf("Enter the second number: ");
+    scanf("%f", Number2);
+    printf("Choose an operation (+, -, *, /): +");
+    scanf("%s", oper);
+    if (oper=="+"){
+
+    } else if (oper == "-")
+    {
+        /* code */
+    } else if (oper=="*")
+    {
+        /* code */
+    } else if (oper== "/")
+    {
+        if (Number1%Number2 ==0){
+            
+        }
+    }
+
+    
+    
+    
+    
+    
+    ;
+
+
+}

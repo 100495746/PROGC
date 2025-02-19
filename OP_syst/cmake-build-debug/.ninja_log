@@ -1,0 +1,8 @@
+# ninja log v5
+2	1346	1710156672133090037	CMakeFiles/untitled1.dir/main.c.o	2210ba24e11c43de
+1347	1877	1710156672666376734	untitled1	f268fcbc49eb2225
+4	1028	1710157322722425774	CMakeFiles/untitled1.dir/waitprocess.c.o	10e898d0ce411653
+4	640	1710173371064326637	CMakeFiles/untitled1.dir/Multiple_forks.c.o	ac2f8128d3a2c166
+2	640	1710173371064351845	CMakeFiles/untitled1.dir/waitprocess.c.o	10e898d0ce411653
+3	641	1710173371064364636	CMakeFiles/untitled1.dir/forkvisual.c.o	145f88fb064b4247
+5	641	1710173371064351678	CMakeFiles/untitled1.dir/Communicating_.c.o	6cfc6e46d20e6478
